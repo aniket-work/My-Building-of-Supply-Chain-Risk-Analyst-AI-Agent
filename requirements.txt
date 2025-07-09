@@ -1,0 +1,10 @@
+openai
+python-dotenv
+httpx
+tavily-python
+streamlit
+streamlit-chat
+streamlit-lottie
+plotly
+pandas
+numpy
